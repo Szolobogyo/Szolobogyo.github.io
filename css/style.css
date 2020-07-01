@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Notable&display=swap');
+
+html{
+    border-right: solid 20px yellow;
+    border-left: solid 20px yellow;
+    margin: 10px;
+    padding: 20px;
+}
+
+h1 {
+
+    color: blue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: left;
+    font-size: 900;
+}
+
+h2 {
+color: orange;
+font-family: Arial, Helvetica, sans-serif;
+}
+ 
+.table{
+   font-family: 'Notable', sans-serif;
+    text-align: center;
+    color: maroon;
+    border: solid 3px lightcoral;
+    background-color: darkcyan;
+}
+
+.imgStyle{
+    box-shadow: 4px 4px 7px grey;
+    margin: 10px;
+}
+
+.bold{
+    font: bold;
+    font-family: 'Notable', sans-serif;
+    font-size: 25px;
+    font-weight: lighter;
+    border-bottom: solid 5px mediumpurple;
+}
+
+.animals{
+    font-style: larger;
+    color: teal;
+    text-transform: uppercase;
+    line-height: 40px;
+}
+
+#Mate{
+    box-shadow: 4px 4px 7px grey;
+    margin: 10px;
+}
+#animals{
+    box-shadow: 4px 4px 7px grey;
+    margin: 10px;
+}
+#pairs{
+    box-shadow: 4px 4px 7px grey;
+    margin: 10px;
+}
